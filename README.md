@@ -1,4 +1,6 @@
-This is the responsive Todo task list app for App4orce's assessment task
+This is the Todo Task app for App4orce's assessment task
+
+
 You can Create, Read , Update , Delete and mask them as Completed.
 Filter the tasks as All tasks , Pending tasks and Completed tasks.
 
@@ -8,7 +10,7 @@ Shared Prefrances, Hive database
 
 Add a New Task:
 Type the task you want to add into the input field.
-Press Enter or click the "Pen" button.
+Press Enter or click the "Pen" button in the bottom.
 
 
 Mark a Task as Completed:
